@@ -11,13 +11,13 @@ export interface UserProfile {
 }
 
 export const DEFAULT_PROFILE: UserProfile = {
-  name: "BẠN TỐT BỤNG",
-  email: "",
+  name: "VỸ",
+  email: "vytranvan120505@gmail.com",
   avatarUrl: "https://api.dicebear.com/7.x/fun-emoji/svg?seed=Lucky",
   slogan: "\"Sự giàu có của tôi phụ thuộc vào lòng tốt của bạn\"",
   bankName: "Techcombank",
-  bankAccount: "1900 1234 5678",
+  bankAccount: "571 205 2005",
   walletName: "Momo",
-  walletAccount: "0909 999 888",
-  qrCodeUrl: "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ThankYou",
+  walletAccount: "0762 577 921",
+  qrCodeUrl: "https://img.vietqr.io/image/TCB-5712052005-qr_only.png",
 };
